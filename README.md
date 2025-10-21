@@ -20,6 +20,9 @@ Each feature is developed following the **Red → Green → Refactor** cycle, su
 - **Mocking Library:** Mockito 5
 
 ### 📁 Project Structure
+
+```
+
 tdd-ecommerce/
 ├─ pom.xml
 ├─ src/
@@ -27,6 +30,7 @@ tdd-ecommerce/
 │ └─ test/java/com/example/ # Unit tests
 └─ README.md
 
+```
 
 ### 💻 Basic Maven Commands
 | Purpose | Command |
